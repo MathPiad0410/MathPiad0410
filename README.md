@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathPiad0410
+- 👋 Hi, I’m Khoa Dam Dang Bui
 - 👀 I’m interested in programming, particularly: cybersecurity or AI
 - 🌱 I’m currently learning Python, C, C++, HTML
 - 💞️ I’m looking to collaborate on creating websites, machine learning
